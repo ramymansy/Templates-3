@@ -54,7 +54,7 @@ btn.onclick = function () {
   });
 };
 
-// stats-ection
+// stats-section
 function startcount(el) {
   let goal = el.dataset.goal;
   let count = setInterval(() => {
