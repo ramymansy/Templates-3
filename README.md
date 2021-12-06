@@ -1,4 +1,4 @@
-# Templates-3
+# Zero | Templates-3
 
 https://ramymansy.github.io/Zero/
 
