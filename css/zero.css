@@ -1834,16 +1834,15 @@ button.up {
   margin: 2px;
 }
 .footer .copyright {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 10px 0;
+  padding: 20px 0;
   color: white;
-  margin: 20px 0 0;
   border-top: 1px solid #444;
+  text-align: center;
 }
 .footer .copyright p {
-  margin: 20px;
+  margin: 0;
+  font-size: 14px;
+  margin-bottom: 10px;
 }
 /* End Footer */
 /*=======================================================*/
