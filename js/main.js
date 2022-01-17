@@ -69,7 +69,7 @@ function startcount(el) {
 // The End Of The Year Date To Countdown To
 // 1000 Milliseconds = 1 Second
 
-const countDownDate = new Date("Dec 31, 2021 23:59:59").getTime();
+const countDownDate = new Date("Dec 31, 2022 23:59:59").getTime();
 // console.log(countDownDate);
 
 const counter = setInterval(() => {

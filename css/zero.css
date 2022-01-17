@@ -1184,7 +1184,7 @@ button.up {
   justify-content: center;
 }
 .events .info .time .unit {
-  width: 75px;
+  width: fit-content;
   text-align: center;
   border: 1px solid #d4d4d4;
   border-radius: 6px;
