@@ -443,12 +443,10 @@ button.up {
   font-size: 38px;
   margin: 0;
   letter-spacing: -2px;
-  text-transform: capitalize;
   color: rgb(66, 66, 66);
 }
 .landing .text p {
   font-size: 20px;
-  text-transform: capitalize;
   line-height: var(--main-line-hight);
   margin: 5px 0 0;
   color: #666;
